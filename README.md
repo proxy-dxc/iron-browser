@@ -1,7 +1,7 @@
 # Iron Browser  
-![Swift](https://img.shields.io/badge/Swift-5.9-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white)
 ![macOS](https://img.shields.io/badge/macOS-Tahoe-deepskyblue?logo=apple)
-![WebKit](https://img.shields.io/badge/WebKit-powered-ffce00?style=for-the-badge&logo=safari&logoColor=white)
+![WebKit](https://img.shields.io/badge/WebKit-browser-blue?logo=safari&logoColor=white)
 
 *A modern, Swift-based macOS browser built with WebKit — inspired by the simplicity and workflow of the original Arc.*
 
