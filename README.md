@@ -36,3 +36,53 @@ Iron Browser aims to carry that torch forward, focused on:
 ---
 
 ## 🧩 Current Structure
+Iron Browser/
+├── AppDelegate.swift
+├── RootSplitViewController.swift # Main container (sidebar + browser)
+├── SidebarViewController.swift # Left panel (tabs/spaces)
+├── BrowserViewController.swift # Right panel (WKWebView)
+└── Main.storyboard # Window + split controller binding
+
+
+---
+
+## 🔧 Tech Stack
+- **Swift 5+**
+- **AppKit** (macOS UI framework)
+- **WebKit (WKWebView)** for browsing engine
+- **Xcode 15+**
+
+---
+
+## 🛣 Roadmap
+### MVP Goals
+- [ ] Functional sidebar with tab model  
+- [ ] Address bar + basic navigation  
+- [ ] Multiple tabs system  
+- [ ] Persistent tab/session storage  
+- [ ] Simple command bar  
+
+### Later Features
+- [ ] Spaces / Collections  
+- [ ] Custom themes and boosts  
+- [ ] Profiles / Containers  
+- [ ] Better sidebar UX  
+- [ ] Multi-window support  
+
+---
+
+## 🤝 Contributing
+This little project is still very experimental and will evolve as soon as possible.
+Contributions are welcomed when stablizes. Tehe~
+
+---
+
+## 📜 License
+To be determined.
+
+---
+
+## ⭐ Support
+If you find this project interesting, consider **starring the repository** to follow its development.
+*mwah ❤️*
+
