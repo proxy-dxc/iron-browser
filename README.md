@@ -51,10 +51,10 @@ Iron Browser/
 ---
 
 ## 🔧 Tech Stack
-- **Swift 5+**
+- **Swift 6.2**
 - **AppKit** (macOS UI framework)
 - **WebKit (WKWebView)** for browsing engine
-- **Xcode 15+**
+- **Xcode 26.1**
 
 ---
 
